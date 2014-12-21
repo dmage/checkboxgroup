@@ -4,6 +4,10 @@ Allows to construct analog of `<select multiple>` using sequence of `<input type
 
 **Demo** available at <http://dmage.github.io/checkboxgroup/>.
 
+## Installation
+
+    bower install checkboxgroup
+
 ## Usage
 
     $(function () {

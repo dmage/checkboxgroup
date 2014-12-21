@@ -1,0 +1,32 @@
+{
+    "name": "checkboxgroup",
+    "version": "1.0.0",
+    "description": "jQuery plugin for constructing analog of multiselect using checkboxes.",
+    "keywords": [
+        "jquery-plugin",
+        "multiselect",
+        "checkbox"
+    ],
+    "homepage": "https://github.com/dmage/checkboxgroup",
+    "bugs": {
+        "url": "https://github.com/dmage/checkboxgroup/issues"
+    },
+    "license": "MIT",
+
+    "author": {
+        "name": "Oleg Bulatov",
+        "email": "oleg@bulatov.me"
+    },
+
+    "repository": {
+        "type": "git",
+        "url" : "https://github.com/dmage/checkboxgroup"
+    },
+
+    "dependencies": {
+        "jquery": ">=1.9.0"
+    },
+    "devDependencies": {
+        "jslint": ">=0.3.0"
+    }
+}
